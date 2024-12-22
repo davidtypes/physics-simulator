@@ -1,1 +1,1 @@
-# physics_sim
+# physics-simulator
